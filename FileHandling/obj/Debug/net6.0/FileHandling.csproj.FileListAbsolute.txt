@@ -1,0 +1,14 @@
+C:\Users\Ramanjaneyareddy\source\repos\FileHandling\FileHandling\bin\Debug\net6.0\FileHandling.exe
+C:\Users\Ramanjaneyareddy\source\repos\FileHandling\FileHandling\bin\Debug\net6.0\FileHandling.deps.json
+C:\Users\Ramanjaneyareddy\source\repos\FileHandling\FileHandling\bin\Debug\net6.0\FileHandling.runtimeconfig.json
+C:\Users\Ramanjaneyareddy\source\repos\FileHandling\FileHandling\bin\Debug\net6.0\FileHandling.dll
+C:\Users\Ramanjaneyareddy\source\repos\FileHandling\FileHandling\bin\Debug\net6.0\FileHandling.pdb
+C:\Users\Ramanjaneyareddy\source\repos\FileHandling\FileHandling\obj\Debug\net6.0\FileHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramanjaneyareddy\source\repos\FileHandling\FileHandling\obj\Debug\net6.0\FileHandling.AssemblyInfoInputs.cache
+C:\Users\Ramanjaneyareddy\source\repos\FileHandling\FileHandling\obj\Debug\net6.0\FileHandling.AssemblyInfo.cs
+C:\Users\Ramanjaneyareddy\source\repos\FileHandling\FileHandling\obj\Debug\net6.0\FileHandling.csproj.CoreCompileInputs.cache
+C:\Users\Ramanjaneyareddy\source\repos\FileHandling\FileHandling\obj\Debug\net6.0\FileHandling.dll
+C:\Users\Ramanjaneyareddy\source\repos\FileHandling\FileHandling\obj\Debug\net6.0\refint\FileHandling.dll
+C:\Users\Ramanjaneyareddy\source\repos\FileHandling\FileHandling\obj\Debug\net6.0\FileHandling.pdb
+C:\Users\Ramanjaneyareddy\source\repos\FileHandling\FileHandling\obj\Debug\net6.0\FileHandling.genruntimeconfig.cache
+C:\Users\Ramanjaneyareddy\source\repos\FileHandling\FileHandling\obj\Debug\net6.0\ref\FileHandling.dll
